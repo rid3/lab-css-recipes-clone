@@ -1,0 +1,30 @@
+
+#main-tittle {
+    text-align: center;
+    color:rgb(241, 236, 236);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+#introduction {
+    text-align: center;
+}
+
+#listing-ingridients {
+    list-style-type:none;
+}
+
+#listed-directions {
+    list-style-type:decimal;
+}
+
+body {
+    background-image: url("apple-pie.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-size: 300px 900px;
+    background-size: 100% 30%;
+
+    background-position: top;
+    padding: 10px 10px 10px 10px;
+    margin: 100px;
+
+    }
